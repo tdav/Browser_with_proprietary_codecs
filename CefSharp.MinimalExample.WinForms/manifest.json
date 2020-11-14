@@ -1,0 +1,9 @@
+﻿{
+  "version": "1.4.8.903",
+  "x-cdm-module-versions": "4",
+  "x-cdm-interface-versions": "8",
+  "x-cdm-host-versions": "8",
+  "x-cdm-codecs": "vp8,vp9.0,avc1",
+  "os": "win",
+  "arch": "x86"
+}
